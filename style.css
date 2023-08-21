@@ -1,0 +1,20 @@
+.profil{
+    background-color: red;
+    height: 60vh;
+}
+
+/* .profil img{
+    margin-top: 100px;
+} */
+
+.textprofile{
+    color: black;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.textprofilebawah{
+    color: black;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
